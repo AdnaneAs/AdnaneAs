@@ -8,9 +8,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
 </p>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdnaneAs"/>
-</div>
+
 
 ```
 Recent MSc graduate in Big Data & Artificial Intelligence, blending strong foundations in software engineering
@@ -43,5 +41,9 @@ Seeking opportunities to contribute to innovative teams driving real-world impac
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AdnaneAs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/adnane-asensouyis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/AdnaneAs" target="_blank" rel="noreferrer"><img
+
+<div align="left">
+  <a href="https://www.github.com/AdnaneAs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AdnaneAs?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdnaneAs"/>
+</div>
