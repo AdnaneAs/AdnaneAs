@@ -1,6 +1,17 @@
 
-# Hi My name is Adnane
-## AI Engineer
+<div align="center">
+<h1 >Hi👋, My name is Adnane</h1>
+<h3 >👩‍💻 Im an AI Engineer</h3>
+</div>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
+</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdnaneAs"/>
+</div>
+
 ```
 Recent MSc graduate in Big Data & Artificial Intelligence, blending strong foundations in software engineering
 with hands-on experience in machine learning, deep learning, and LLM-based applications.
@@ -9,6 +20,7 @@ Skilled in building end-to-end systems from backend pipelines to frontend interf
 I am passionate about learning and sharing knowledge, embracing new technology, and fostering effective communication.
 Seeking opportunities to contribute to innovative teams driving real-world impact through technology.
 ```
+
 - 🌍  I'm based in Morroco
 - ✉️  You can contact me at adnane.asensouyis@gmail.com
 - 🧠  I'm learning PowerBI
@@ -20,9 +32,12 @@ Seeking opportunities to contribute to innovative teams driving real-world impac
 
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-![](https://nirzak-streak-stats.vercel.app/?user=AdnaneAs&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AdnaneAs&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnaneAs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ### Socials
